@@ -12,6 +12,9 @@ function Header() {
           <li>
             <Link to="/about">About</Link>
           </li>
+          <li>
+            <Link to="/insert">Insert</Link>
+          </li>
         </ul>
       </nav>
     </header>
